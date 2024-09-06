@@ -45,12 +45,12 @@ As a goal, solution-oriented person, I always give my best and a little bit more
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=magic1998"></img>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bberry124"></img>
 </p>
 
 <div align="center">
-  <img align="left" padding-right="20px" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=magic1998&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="left" padding-right="20px" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bberry124&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div align="center">
-  <img align="right" padding-left="20px" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=magic1998&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="right" padding-left="20px" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bberry124&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
